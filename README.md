@@ -1,5 +1,5 @@
-Open Terminal in designs directory
-Run following command;
+Open Terminal in designs directory /n
+Run following command; /n
 mkdir cep
 cd cep
 git init
